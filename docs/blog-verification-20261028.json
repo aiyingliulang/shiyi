@@ -1,0 +1,10 @@
+{
+  "project_grid": "project-grid grid gap-4 sm:grid-cols-2 lg:grid-cols-3 2xl:grid-cols-4",
+  "cover_bytes": 171290,
+  "cover_hash_verified": true,
+  "project_copy_verified": true,
+  "login_shared_brand_verified": true,
+  "home_without_project_highlights": true,
+  "responsive_css_verified": true,
+  "browser_screenshot_review": "unavailable: computer use stopped automatically"
+}
