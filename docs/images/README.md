@@ -1,0 +1,7 @@
+# 食忆项目封面
+
+生成方式：内置 image_gen。原图保留为 PNG，博客使用 1600×900 的 WebP（171,290 字节）。图中的界面是概念示意，非实机截图。
+
+## 生成提示词
+
+Create a polished editorial 3D illustration for the cover of 食忆, a personal Android food memory and spending diary app. Landscape 16:9 composition, entire illustration fully finished edge to edge. Match a warm, soft personal technology blog project portfolio: creamy ivory background, sunlit pale oak tabletop, soft muted navy blue and sage/teal accents, subtle warm amber highlights, matte clay-like 3D objects, soft natural shadows, refined and calm. Main composition: an upright modern Android phone slightly left of centre showing a clean food diary with small illustrated food thumbnails, one green heart and star ratings, no legible text. Beside it a small bowl of noodles with chopsticks and a takeaway receipt, and on the right two attractive generic unbranded snack packages, a tiny barcode card and a small notebook with a green bookmark suggesting remembering favourites. Tasteful potted plant partly visible in background, warm daylight from left. Objects generously spaced and arranged as a coherent still life, not floating icon collage. Camera near eye level with slight elevated angle, 50mm product editorial photography framing. Keep important objects within central 80% for responsive cover cropping. No letters, no words, no headings, no logos, no watermark. Not a screenshot; a beautiful original illustration consistent with a carefully curated software project portfolio.
